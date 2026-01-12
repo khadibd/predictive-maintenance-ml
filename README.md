@@ -11,7 +11,7 @@ The system is built using the NASA Turbofan Engine Degradation Dataset, a well-k
 The objective is to classify whether an engine is close to failure (1) or operating normally (0).
 
 
-
+_____________________________________________________________________________________________________________________________________________________________________________
 
 
 🎯 Problem Statement
@@ -248,3 +248,4 @@ For any queries, reach out to:
 GitHub: @khadibd
 
 Email:  khadijabouadi00@gmail.com 
+
