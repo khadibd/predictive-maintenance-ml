@@ -77,9 +77,9 @@ RUL (Remaining Useful Life) represents the number of cycles remaining before eng
 It is calculated as:
 
 
-
+```bash
 RUL = Maximum Cycle of Engine − Current Cycle
-
+```
 
 
 
@@ -185,7 +185,7 @@ Scikit-learn
 📁 Project Structure
 
 
-
+```bash
 predictive\_maintenance\_ml/
 
 │
@@ -199,7 +199,7 @@ predictive\_maintenance\_ml/
 ├── predictive\_maintenance.py
 
 └── README.md
-
+```
 
 
 
@@ -208,41 +208,43 @@ predictive\_maintenance\_ml/
 
 
 
-Clone the repository:
+1. Clone the repository:
 
 
-
-git clone https://github.com/your-username/predictive\_maintenance\_ml.git
-
-
-
+```bash
+git clone https://github.com/khadibd/predictive-maintenance-ml
+```
 
 
-Navigate to the project folder:
+2. Navigate to the project folder:
 
 
-
+```bash
 cd predictive\_maintenance\_ml
+```
 
 
 
 
-
-Run the script:
-
+3. Run the script:
 
 
+```bash
 python predictive\_maintenance.py
-
+```
 
 
 
 
 👩‍💻 Author
 
+Eng. Khadija Bouadi
 
 
-Khadija Bouadi
+📧 Contact
 
+For any queries, reach out to:
 
+GitHub: @khadibd
 
+Email:  khadijabouadi00@gmail.com 
